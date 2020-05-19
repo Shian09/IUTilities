@@ -24,6 +24,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".MyTuitions"></activity>
         <activity android:name=".MyFoods" />
         <activity android:name=".MyRides" />
@@ -32,7 +33,7 @@
         <activity android:name=".OrderFood"></activity>
         <activity android:name=".BuyFood" />
         <activity android:name=".FoodCourt" />
-        <activity android:name=".RideDetails"></activity>
+
         <activity android:name=".MyProfile" />
         <activity
             android:name=".BuyItem"
